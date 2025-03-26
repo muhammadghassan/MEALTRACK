@@ -1,5 +1,5 @@
 
-## Project release with consent of all parties.
+## Project released with consent of all parties.
 
 # 🥗 MEALTRACK  
 
