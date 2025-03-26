@@ -1,4 +1,4 @@
-Here's the complete `README.md` file with **all steps included** in a proper block format:  
+
 
 ```markdown
 # 🥗 MEALTRACK  
