@@ -1,6 +1,6 @@
 
+## Project release with consent of all parties.
 
-```markdown
 # 🥗 MEALTRACK  
 
 ## 📌 COMP3330 Interactive Mobile Application Design and Programming Project  
