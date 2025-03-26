@@ -122,5 +122,3 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 Feel free to contribute or raise issues for improvements! 🚀
 ```  
-
-Now, this **includes all steps properly formatted** for GitHub. You can copy and paste it directly into your repository! ✅
